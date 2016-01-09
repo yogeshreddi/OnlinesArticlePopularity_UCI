@@ -1,6 +1,6 @@
-# OnlinesArticlePopularity_UCI                                                                      #
-# Data set has been taken form UCI repository please refer to the link                              # #(https://archive.ics.uci.edu/ml/datasets/Online+News+Popularity) for more information on the       #   
-#problem and date set                                                                               #
+# OnlinesArticlePopularity_UCI                                                                      
+# Data set has been taken form UCI repository please refer to the link                               #(https://archive.ics.uci.edu/ml/datasets/Online+News+Popularity) for more information on the       
+#problem and date set                                                                               
 #####################################################################################################
   This project is about predicting the content popularity of the articles that are published online. 
 Recent research trends showed that predicting such popularity has direct implications to ad revenue 
