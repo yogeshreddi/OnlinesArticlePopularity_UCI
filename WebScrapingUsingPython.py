@@ -14,10 +14,8 @@ df = pd.read_csv('E:\Study\uconn\PRED MOD\Team project\OnlineNewsPopularity\Onli
 urls = list(df.url)
 
 regexp = '<span class="author_name">By+\s+(.+?)</span>'
-regexbad = '<h1>(.+?)</h1>'
 
 pattern = re.compile(regexp)
-patternbad = re.compile(regexbad)
 
 
 # In[70]:
